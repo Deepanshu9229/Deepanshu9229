@@ -27,8 +27,9 @@ Hi there! 👋 I'm **Deepanshu Patel**, a final-year B.Tech student in Biomedica
 Frontend for a farming app that enables farmers to manage pumps and monitor farm data.
 - Technologies: React Native, Figma, IoT
 
-### 🔹 [Lung Sound Detection](https://github.com/Deepanshu9229/lung_sound_classification)
-Developed a CNN-based model for classifying lung sounds for respiratory diseases like asthma and COPD.
+### 🔹 [Lung Sound Detection](https://github.com/Deepanshu9229/lung_sound_classification)  
+[Live Demo](https://lsd-47kq.onrender.com)  
+Developed a Random Forest-based model for classifying lung sounds associated with respiratory diseases such as Asthma and COPD.  
 - Technologies: Python, mel-spectrograms, Random Forest, SVM
 
 ### 🔹 [Password Manager](https://github.com/Deepanshu9229/Password_Manager)
@@ -39,7 +40,7 @@ A user-friendly password management tool.
 Machine learning project using Python to classify spam messages.
 - Techniques: Naive Bayes, EDA, text preprocessing
 
-### 🔹 [BANK LOAN REPORT](https://github.com/Deepanshu9229/LoanVista)
+### 🔹 [Bank Loan Report](https://github.com/Deepanshu9229/LoanVista)
 Interactive dashboards for bank loan analysis and performance monitoring using Power BI.
 
 
