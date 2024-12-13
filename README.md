@@ -18,7 +18,7 @@ Hi there! 👋 I'm **Deepanshu Patel**, a final-year B.Tech student in Biomedica
 ---
 
 ## 📈 My GitHub Stats:
-![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanshu-patel&show_icons=true&theme=radical)
+![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu9229&show_icons=true&theme=radical)
 
 ---
 
