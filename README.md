@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="margin-right: 5px;" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
