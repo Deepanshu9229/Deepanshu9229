@@ -60,6 +60,14 @@
 
 ## 🌟 Projects
 
+### 🔹 [Perfume E-Commerce Website](https://perfume-frontend-dusky.vercel.app/)
+Frontend for a farming app that enables farmers to manage pumps and monitor farm data.  
+**Technologies:** React Native, Figma, IoT
+
+### 🔹 [Real-Time Chat App](https://chatapp-one-ashen.vercel.app/)
+Frontend for a farming app that enables farmers to manage pumps and monitor farm data.  
+**Technologies:** React Native, Figma, IoT
+
 ### 🔹 [Smart Farm Management System](https://github.com/your-repo)
 Frontend for a farming app that enables farmers to manage pumps and monitor farm data.  
 **Technologies:** React Native, Figma, IoT
