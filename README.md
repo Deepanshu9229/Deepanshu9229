@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/E34F26" height="40" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css/E34F26" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   
@@ -55,7 +55,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu9229-0&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&bg_color=0000" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu9229&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&bg_color=0000" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
