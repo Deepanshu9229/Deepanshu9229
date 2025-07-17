@@ -7,7 +7,6 @@
 - 🌱 Open to collaborating on innovative and impactful tech projects.  
 - 💬 Ask me about: **DSA | Frontend | Backend**
 
----
 
 <div align="left">
   <a href="mailto:deepanshupatel9229@gmail.com" target="_blank">
@@ -19,7 +18,7 @@
   </a>
 </div>
 
----
+--
 
 ### 🛠️ Tech Stack
 
