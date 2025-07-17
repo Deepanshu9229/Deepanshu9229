@@ -13,6 +13,7 @@
   <a href="mailto:deepanshupatel9229@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9e0814&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/deepanshu-offi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=002e99&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
   </a>
@@ -24,21 +25,21 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"  />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="CSS3" />
   &nbsp;
 </div>
@@ -48,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu9229&show_icons=true&theme=radical&hide_title=false&hide_border=true" height="300" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu9229&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true" height="300" alt="GitHub Stats" />
 </div>
 
 ---
