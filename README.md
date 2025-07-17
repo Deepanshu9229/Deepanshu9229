@@ -9,9 +9,9 @@
 <img align="right" height="170" src="[https://giffiles.alphacoders.com/398/3987.gif]"  />
 
 - 🚀 Aspiring Software Development Engineer with a keen interest in AI, Machine Learning, and Data Science.<br>
-- 🌱 Open to collaborating on innovative projects in tech. !*
+- 🌱 Open to collaborating on innovative projects in tech. !
 
-- 💬 Ask me about *DSA | FRONTEND / BACKEND !*
+- 💬 Ask me about *DSA | FRONTEND | BACKEND !*
 
 ###
 
@@ -55,7 +55,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu9229&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&bg_color=0000" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu9229&show_icons=true&theme=radical&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&bg_color=0000" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -69,10 +69,10 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ---
-
+<!--
 ## 📈 My GitHub Stats:
 ![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu9229&show_icons=true&theme=radical)
-
+-->
 ---
 
 ## 🌟 Projects:
