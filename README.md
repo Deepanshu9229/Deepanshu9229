@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="CSS3" />
 </div>
 
 ---
@@ -44,10 +44,11 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 <img src="/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
 ---
+ -->
 
 ## 🌟 Projects
 
