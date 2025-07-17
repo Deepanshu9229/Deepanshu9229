@@ -26,13 +26,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"  />
   &nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="CSS3" />
+  &nbsp;
 </div>
 
 ---
